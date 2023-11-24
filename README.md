@@ -4,6 +4,8 @@ The project is the "Pacman" game and the ghosts also have artificial intelligenc
 The graphical user interface is developed using the SFML library.
 
 
+<div align="center">
+  <video src="https://github.com/mahdirafie/pacman_ai/assets/149694097/3796d940-2e78-4254-9f2b-449a2eccc586" width="400" />
+</div>
 
-https://github.com/mahdirafie/pacman_ai/assets/149694097/3796d940-2e78-4254-9f2b-449a2eccc586
 
